@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/cpphelloworld.dir/src/main.cpp.o  -o ../bin/cpphelloworld 
